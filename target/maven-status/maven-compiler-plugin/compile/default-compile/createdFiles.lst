@@ -1,0 +1,16 @@
+com\akoya\codex\upgrader\Icons.class
+com\akoya\codex\upgrader\Messages.class
+com\akoya\codex\upgrader\FileUpgrader.class
+com\akoya\codex\upgrader\model\UpgradedExperiment.class
+com\akoya\codex\upgrader\MessageDialogs.class
+com\akoya\codex\upgrader\model\Experiment.class
+com\akoya\codex\upgrader\dto\ChannelDto.class
+com\akoya\codex\upgrader\JsonSerializable.class
+com\akoya\codex\upgrader\gui\FileUpgraderFrame$1.class
+com\akoya\codex\upgrader\dto\CycleDto.class
+com\akoya\codex\upgrader\model\Segmentation.class
+com\akoya\codex\upgrader\MicroscopeTypeEnum.class
+com\akoya\codex\upgrader\gui\FileUpgraderFrame.class
+com\akoya\codex\upgrader\model\Region.class
+com\akoya\codex\upgrader\Messages$Tooltips.class
+com\akoya\codex\upgrader\utils\Path.class
